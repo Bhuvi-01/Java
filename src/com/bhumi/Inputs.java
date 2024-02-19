@@ -11,7 +11,9 @@ public class Inputs {
         int a=234_000_000;
         System.out.println(a);
 
-//      float marks=input.nextFloat();
-//      System.out.println(marks);
+/*
+      float marks=input.nextFloat();
+      System.out.println(marks);
+*/
     }
 }
