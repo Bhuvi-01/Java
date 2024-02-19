@@ -1,3 +1,5 @@
+package com.bhumi;
+
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
