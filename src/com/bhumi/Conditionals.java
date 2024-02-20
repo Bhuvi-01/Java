@@ -17,14 +17,7 @@ public class Conditionals {
 //            salary+=1000;
 //            System.out.println("The salary is now :"+ salary);
 //        }
-        else if(salary>20_000){
-
-            System.out.println("Bonus is being added of rs. 3000");
-            salary+=3000;
-            System.out.println("The salary is: "+ salary);
-
-        }
-        else{
+        else {
 
             System.out.println("Bonus is being added of rs. 1000");
             salary+=1000;
